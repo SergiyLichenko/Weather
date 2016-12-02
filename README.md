@@ -1,7 +1,7 @@
 # Weather
 Client weather forecast app written in C# and C++
 
-This application allows you to see thre forecast of the weather according to your current location
+This application allows you to see the forecast of the weather, according to your current location
 
 Example of usage:
 
