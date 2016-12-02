@@ -1,0 +1,51 @@
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\bin\x86\Debug\Common.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\bin\x86\Debug\Common.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\bin\x86\Debug\Common.pri
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\Common.dll
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\Common.pdb
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\priconfig.xml
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\layout.resfiles
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\resources.resfiles
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\pri.resfiles
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\qualifiers.txt
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\liche\documents\visual studio 2015\Projects\Weather\Common\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\Projects\Weather\Common\bin\x86\Debug\Common.dll
+H:\Projects\Weather\Common\bin\x86\Debug\Common.pdb
+H:\Projects\Weather\Common\bin\x86\Debug\Common.pri
+H:\Projects\Weather\Common\obj\x86\Debug\Common.dll
+H:\Projects\Weather\Common\obj\x86\Debug\Common.pdb
+H:\Projects\Weather\Common\obj\x86\Debug\priconfig.xml
+H:\Projects\Weather\Common\obj\x86\Debug\priconfig.xml.intermediate
+H:\Projects\Weather\Common\obj\x86\Debug\layout.resfiles
+H:\Projects\Weather\Common\obj\x86\Debug\layout.resfiles.intermediate
+H:\Projects\Weather\Common\obj\x86\Debug\resources.resfiles
+H:\Projects\Weather\Common\obj\x86\Debug\resources.resfiles.intermediate
+H:\Projects\Weather\Common\obj\x86\Debug\pri.resfiles
+H:\Projects\Weather\Common\obj\x86\Debug\pri.resfiles.intermediate
+H:\Projects\Weather\Common\obj\x86\Debug\qualifiers.txt
+H:\Projects\Weather\Common\obj\x86\Debug\qualifiers.txt.intermediate
+H:\Projects\Weather\Common\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\Projects\Weather\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+I:\Projects\Weather\Common\bin\x86\Debug\Common.dll
+I:\Projects\Weather\Common\bin\x86\Debug\Common.pdb
+I:\Projects\Weather\Common\bin\x86\Debug\Common.pri
+I:\Projects\Weather\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+I:\Projects\Weather\Common\obj\x86\Debug\Common.dll
+I:\Projects\Weather\Common\obj\x86\Debug\Common.pdb
+I:\Projects\Weather\Common\obj\x86\Debug\priconfig.xml
+I:\Projects\Weather\Common\obj\x86\Debug\priconfig.xml.intermediate
+I:\Projects\Weather\Common\obj\x86\Debug\layout.resfiles
+I:\Projects\Weather\Common\obj\x86\Debug\layout.resfiles.intermediate
+I:\Projects\Weather\Common\obj\x86\Debug\resources.resfiles
+I:\Projects\Weather\Common\obj\x86\Debug\resources.resfiles.intermediate
+I:\Projects\Weather\Common\obj\x86\Debug\pri.resfiles
+I:\Projects\Weather\Common\obj\x86\Debug\pri.resfiles.intermediate
+I:\Projects\Weather\Common\obj\x86\Debug\qualifiers.txt
+I:\Projects\Weather\Common\obj\x86\Debug\qualifiers.txt.intermediate
+I:\Projects\Weather\Common\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

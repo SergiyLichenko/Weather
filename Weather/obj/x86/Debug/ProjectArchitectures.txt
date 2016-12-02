@@ -1,0 +1,3 @@
+I:\Projects\Weather\Common\Common.csproj;x86
+I:\Projects\Weather\DirectXPanels\DirectXPanels.vcxproj;x86
+I:\Projects\Weather\Weather\Weather.csproj;x86
