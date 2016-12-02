@@ -1,0 +1,11 @@
+﻿  compilation object save succeeded; see C:\Users\liche\Desktop\Нова папка (4)\C# and C++\ARM\Debug\DirectXPanels\SimplePixelShader.cso
+  compilation object save succeeded; see C:\Users\liche\Desktop\Нова папка (4)\C# and C++\ARM\Debug\DirectXPanels\SimpleVertexShader.cso
+  pch.cpp
+  D2DPanel.cpp
+  D3DPanel.cpp
+  DirectXPanelBase.cpp
+  DrawingPanel.cpp
+  HighlighterPanel.cpp
+  UIAD2DPanel.cpp
+     Создается библиотека C:\Users\liche\Desktop\Нова папка (4)\C# and C++\ARM\Debug\DirectXPanels\DirectXPanels.lib и объект C:\Users\liche\Desktop\Нова папка (4)\C# and C++\ARM\Debug\DirectXPanels\DirectXPanels.exp
+  DirectXPanels.vcxproj -> C:\Users\liche\Desktop\Нова папка (4)\C# and C++\ARM\Debug\DirectXPanels\DirectXPanels.dll
