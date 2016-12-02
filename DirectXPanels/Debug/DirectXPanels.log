@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DirectXPanels.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  D2DPanel.cpp
+  Rain_.cpp
+  Snow_.cpp
+i:\projects\weather\directxpanels\rain_.cpp(12): warning C4244: return: преобразование "FLOAT" в "int", возможна потеря данных
+i:\projects\weather\directxpanels\snow_.cpp(54): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+i:\projects\weather\directxpanels\rain_.cpp(17): warning C4244: return: преобразование "FLOAT" в "int", возможна потеря данных
+i:\projects\weather\directxpanels\snow_.cpp(55): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+i:\projects\weather\directxpanels\rain_.cpp(22): warning C4244: return: преобразование "FLOAT" в "int", возможна потеря данных
+i:\projects\weather\directxpanels\snow_.cpp(61): warning C4244: return: преобразование "FLOAT" в "int", возможна потеря данных
+i:\projects\weather\directxpanels\rain_.cpp(27): warning C4244: return: преобразование "FLOAT" в "int", возможна потеря данных
+i:\projects\weather\directxpanels\snow_.cpp(66): warning C4244: return: преобразование "FLOAT" в "int", возможна потеря данных
+i:\projects\weather\directxpanels\rain_.cpp(64): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+i:\projects\weather\directxpanels\rain_.cpp(78): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+i:\projects\weather\directxpanels\d2dpanel.cpp(97): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+i:\projects\weather\directxpanels\d2dpanel.cpp(98): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+i:\projects\weather\directxpanels\d2dpanel.cpp(109): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+i:\projects\weather\directxpanels\d2dpanel.cpp(110): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+i:\projects\weather\directxpanels\d2dpanel.cpp(113): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+i:\projects\weather\directxpanels\d2dpanel.cpp(114): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+  DirectXPanels.vcxproj -> I:\Projects\Weather\Debug\DirectXPanels\DirectXComponent.dll
