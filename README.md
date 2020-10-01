@@ -1,5 +1,6 @@
 # Weather
-Client weather forecast app written in C# and C++
+Hey Guys!! 
+Check Out this amazing Client weather forecast app written in simple and understandable C# and C++ language.
 
 This application allows you to see the forecast of the weather, according to your current location
 
